@@ -716,3 +716,4 @@ Breaking changes:
 - [git] added `git sync` and `git publish` actions
 - [navigator] added the ability to toggle hidden files in the navigator
 - `jdt.ls` download on postinstall
+- `workspace.supportMultiRootWorkspace` is enabled by default

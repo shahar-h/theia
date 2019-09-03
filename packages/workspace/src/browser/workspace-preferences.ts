@@ -34,7 +34,7 @@ export const workspacePreferenceSchema: PreferenceSchema = {
         'workspace.supportMultiRootWorkspace': {
             description: 'Enable the multi-root workspace support to test this feature internally',
             type: 'boolean',
-            default: false
+            default: true
         }
     }
 };
